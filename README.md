@@ -65,5 +65,5 @@
 
 ## Bug Bounty
 
-- Bug Bounty: [Getting started in Bug Bounty](https://medium.com/@ehsahil/getting-started-in-bug-bounty-7052da28445a)
+- Bug Bounty: [Getting started with Bug Bounty](https://medium.com/@ehsahil/getting-started-in-bug-bounty-7052da28445a)
 
